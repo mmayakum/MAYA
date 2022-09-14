@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Team-16 Project</name>
 	      <url>http://3.142.222.137:8081/repository/Tesla-apps//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.142.222.137:8081/repository/maven-snapshots/</url>
+	      <name>Team-16 Project</name>
+	      <url>http://3.142.222.137:8081/repository/maven-team16/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
