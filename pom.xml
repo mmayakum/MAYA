@@ -7,12 +7,12 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>Tesla-Web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Tesla Web App Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>Team-16-Project</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Team-16 Project</name>
+	      <name>Tesla-app</name>
 	      <url>http://3.142.222.137:8081/repository/Tesla-apps//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Team-16 Project</name>
+	      <name>maven-team-16</name>
 	      <url>http://3.142.222.137:8081/repository/maven-team16/</url>
 	    </snapshotRepository>
 	    
