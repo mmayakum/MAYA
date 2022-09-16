@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	
 	<name>Tesla-Web-application</name>
 
@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Tesla.web-app</finalName>
+		<finalName>Tesla.web2-app</finalName>
 		
 		<plugins>
 			<plugin>
